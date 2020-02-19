@@ -10,7 +10,6 @@
 # Latihan 5
 ![Alt Text](https://github.com/damarwdsyh003/Bootstrap/blob/master/Lat%205.1.PNG)
 ![Alt Text](https://github.com/damarwdsyh003/Bootstrap/blob/master/Lat%205.2.PNG)
-![Alt Text](https://github.com/damarwdsyh003/Bootstrap/blob/master/Lat%205.3.PNG)
 # Latihan 6
 ![Alt Text](https://github.com/damarwdsyh003/Bootstrap/blob/master/Lat%206.PNG)
 # Latihan 7
